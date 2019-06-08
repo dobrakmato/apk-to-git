@@ -1,0 +1,23 @@
+{
+  "name": "node-apk-to-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "libxmljs": "^0.19.5",
+    "nodegit": "^0.24.3",
+    "puppeteer": "^1.17.0",
+    "rimraf": "^2.6.3"
+  },
+  "devDependencies": {
+    "@types/libxmljs": "^0.18.3",
+    "@types/nodegit": "^0.24.8",
+    "@types/puppeteer": "^1.12.4"
+  }
+}
